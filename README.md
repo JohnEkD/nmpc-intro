@@ -22,6 +22,10 @@ Each applies the method to a robot model from the DeepMind MuJoCo Menagerie:
 do-mpc and CasADi solve the optimisation, MuJoCo provides the simulated
 vehicle.
 
+## How to work through a notebook
+
+<img src="assets/how_to_run.png" width="900">
+
 ## Building the controller yourself
 
 Exercises 1 and 2 build the same controllers line by line, in CasADi, with
